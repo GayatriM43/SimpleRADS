@@ -1,0 +1,3 @@
+/home/kawshik/Sem7/phase1/phase-1-30/src/CMakeFiles/BPTree.dir
+/home/kawshik/Sem7/phase1/phase-1-30/src/CMakeFiles/edit_cache.dir
+/home/kawshik/Sem7/phase1/phase-1-30/src/CMakeFiles/rebuild_cache.dir

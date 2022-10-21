@@ -1,0 +1,19 @@
+if(this->size == FANOUT)
+        {
+            for (int i = 0; i < MIN_OCCUPANCY -1; i++) 
+            {
+                keys_remain.append(this->keys[i])
+                tree_pointers_remain.append(this->tree_pointers[i])
+            }
+            tree_pointers_remain.append(this->tree_pointers[MIN_OCCUPANCY-1])
+            while(keys_remain.size()<MIN_OCCUPANCY)
+            {
+                if(key)
+            }
+            for (int i = MIN_OCCUPANCY -1; i<this->size -1;i++) 
+            {
+                keys_new.append(this->keys[i])
+                tree_pointers_new.append(this->tree_pointers[i+1])
+            }
+            this->keys.append((new_child->data_pointers[0]).first)
+            this->tree_pointers.append((new_child -> tree_ptr))

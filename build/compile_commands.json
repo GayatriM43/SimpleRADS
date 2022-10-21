@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/kawshik/Sem7/phase1/phase-1-30/build",
+  "command": "/usr/bin/c++  -I/home/kawshik/Sem7/phase1/phase-1-30/include -I/home/kawshik/Sem7/phase1/phase-1-30/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/BPTree.cpp.o -c /home/kawshik/Sem7/phase1/phase-1-30/src/BPTree.cpp",
+  "file": "/home/kawshik/Sem7/phase1/phase-1-30/src/BPTree.cpp"
+},
+{
+  "directory": "/home/kawshik/Sem7/phase1/phase-1-30/build",
+  "command": "/usr/bin/c++  -I/home/kawshik/Sem7/phase1/phase-1-30/include -I/home/kawshik/Sem7/phase1/phase-1-30/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/Block.cpp.o -c /home/kawshik/Sem7/phase1/phase-1-30/src/Block.cpp",
+  "file": "/home/kawshik/Sem7/phase1/phase-1-30/src/Block.cpp"
+},
+{
+  "directory": "/home/kawshik/Sem7/phase1/phase-1-30/build",
+  "command": "/usr/bin/c++  -I/home/kawshik/Sem7/phase1/phase-1-30/include -I/home/kawshik/Sem7/phase1/phase-1-30/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/InternalNode.cpp.o -c /home/kawshik/Sem7/phase1/phase-1-30/src/InternalNode.cpp",
+  "file": "/home/kawshik/Sem7/phase1/phase-1-30/src/InternalNode.cpp"
+},
+{
+  "directory": "/home/kawshik/Sem7/phase1/phase-1-30/build",
+  "command": "/usr/bin/c++  -I/home/kawshik/Sem7/phase1/phase-1-30/include -I/home/kawshik/Sem7/phase1/phase-1-30/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/LeafNode.cpp.o -c /home/kawshik/Sem7/phase1/phase-1-30/src/LeafNode.cpp",
+  "file": "/home/kawshik/Sem7/phase1/phase-1-30/src/LeafNode.cpp"
+},
+{
+  "directory": "/home/kawshik/Sem7/phase1/phase-1-30/build",
+  "command": "/usr/bin/c++  -I/home/kawshik/Sem7/phase1/phase-1-30/include -I/home/kawshik/Sem7/phase1/phase-1-30/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/Query.cpp.o -c /home/kawshik/Sem7/phase1/phase-1-30/src/Query.cpp",
+  "file": "/home/kawshik/Sem7/phase1/phase-1-30/src/Query.cpp"
+},
+{
+  "directory": "/home/kawshik/Sem7/phase1/phase-1-30/build",
+  "command": "/usr/bin/c++  -I/home/kawshik/Sem7/phase1/phase-1-30/include -I/home/kawshik/Sem7/phase1/phase-1-30/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/RecordPtr.cpp.o -c /home/kawshik/Sem7/phase1/phase-1-30/src/RecordPtr.cpp",
+  "file": "/home/kawshik/Sem7/phase1/phase-1-30/src/RecordPtr.cpp"
+},
+{
+  "directory": "/home/kawshik/Sem7/phase1/phase-1-30/build",
+  "command": "/usr/bin/c++  -I/home/kawshik/Sem7/phase1/phase-1-30/include -I/home/kawshik/Sem7/phase1/phase-1-30/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/TreeNode.cpp.o -c /home/kawshik/Sem7/phase1/phase-1-30/src/TreeNode.cpp",
+  "file": "/home/kawshik/Sem7/phase1/phase-1-30/src/TreeNode.cpp"
+},
+{
+  "directory": "/home/kawshik/Sem7/phase1/phase-1-30/build",
+  "command": "/usr/bin/c++  -I/home/kawshik/Sem7/phase1/phase-1-30/include -I/home/kawshik/Sem7/phase1/phase-1-30/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/UnorderedHeap.cpp.o -c /home/kawshik/Sem7/phase1/phase-1-30/src/UnorderedHeap.cpp",
+  "file": "/home/kawshik/Sem7/phase1/phase-1-30/src/UnorderedHeap.cpp"
+},
+{
+  "directory": "/home/kawshik/Sem7/phase1/phase-1-30/build",
+  "command": "/usr/bin/c++  -I/home/kawshik/Sem7/phase1/phase-1-30/include -I/home/kawshik/Sem7/phase1/phase-1-30/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/main.cpp.o -c /home/kawshik/Sem7/phase1/phase-1-30/src/main.cpp",
+  "file": "/home/kawshik/Sem7/phase1/phase-1-30/src/main.cpp"
+},
+{
+  "directory": "/home/kawshik/Sem7/phase1/phase-1-30/build",
+  "command": "/usr/bin/c++  -I/home/kawshik/Sem7/phase1/phase-1-30/include -I/home/kawshik/Sem7/phase1/phase-1-30/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/utils.cpp.o -c /home/kawshik/Sem7/phase1/phase-1-30/src/utils.cpp",
+  "file": "/home/kawshik/Sem7/phase1/phase-1-30/src/utils.cpp"
+}
+]
